@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @surajit468
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning in class 9 
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me through mannasurajit093@gmail.com
+**Hi, I'm Surajit**
 
-<!---
-surajit468/surajit468 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech CSE student at KIIT
+💻 Currently learning C, C#, Unity and Game Development
+🎮 Interested in Indie Games, Horror Games, Programming and Software Development
+
+🚀 Current Goals:
+
+* Improve programming skills
+* Build game development projects
+* Learn computer science fundamentals
+* Grow as a developer
